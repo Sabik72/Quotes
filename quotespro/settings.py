@@ -13,7 +13,7 @@ SECRET_KEY = 'w3$nvtm_03*88gxbb78qc#3^j$rf_+&(jb906gi1hk=qk7-3)v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
